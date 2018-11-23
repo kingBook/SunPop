@@ -1,0 +1,97 @@
+<dict>
+    <key>newGame</key>
+    <string>新遊戲</string>
+    
+    <key>continueGame</key>
+    <string>繼續遊戲</string>
+    
+    <key>shop</key>
+    <string>商城</string>
+    
+    <key>niyongyouzuanshi</key>
+    <string>你擁有鑽石</string>
+    
+    <key>ke</key>
+    <string>顆</string>
+    
+    <key>level</key>
+    <string>關卡</string>
+    
+    <key>targetScore</key>
+    <string>目標分數</string>
+    
+    <key>di</key>
+    <string>第</string>
+    
+    <key>guan</key>
+    <string>關</string>
+    
+    <key>maxRecord</key>
+    <string>最高紀錄</string>
+    
+    <key>mubiao</key>
+    <string>目標</string>
+    
+    <key>yinhao</key>
+    <string>：</string>
+    
+    <key>lqdlb</key>
+    <string>領取大禮包</string>
+    
+    <key>hddlb</key>
+    <string>活動大禮包</string>
+    
+    <key>xsdlb</key>
+    <string>新手大禮包</string>
+    
+    <key>smdj</key>
+    <string>神秘大獎</string>
+    
+    <key>gxnhd</key>
+    <string>恭喜您獲得</string>
+    
+    <key>goumai</key>
+    <string>購買</string>
+    
+    <key>lingqu</key>
+    <string>領取</string>
+    
+    <key>wantContinue</key>
+    <string>我要繼續</string>
+    
+    <key>zaijiezaili</key>
+    <string>再接再厲</string>
+    
+    <key>continueBtn</key>
+    <string>繼續遊戲</string>
+    
+    <key>screenTextPropRandom</key>
+    <string>重新排列</string>
+    
+    <key>screenTextPropChangeColor</key>
+    <string>點擊要改變顏色的水果</string>
+    
+    <key>screenTextPropScoreMul</key>
+    <string>下一次獲得分數加倍</string>
+    
+    <key>screenTextPropPopOne</key>
+    <string>點擊消除一個水果</string>
+    
+    <key>rewardScore</key>
+    <string>獎勵分數</string>
+    
+    <key>remainStars</key>
+    <string>剩下的星星</string>
+    
+    <key>help</key>
+    <string>幫助</string>
+    
+    <key>pause</key>
+    <string>暫停</string>
+    
+    <key>wan</key>
+    <string>萬</string>
+    
+    <key>leaderboard</key>
+    <string>排行榜</string>
+</dict>

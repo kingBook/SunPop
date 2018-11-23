@@ -1,0 +1,46 @@
+<dict>
+	<key>targetScore</key>
+	<string>目标分数</string>
+  
+  <key>level</key>
+  <string>关卡</string>
+  
+  <key>di</key>
+  <string>第</string>
+  <key>guan</key>
+  <string>关</string>
+
+  <key>maxRecord</key>
+  <string>最高纪录</string>
+
+  <key>rewardScore</key>
+  <string>奖励分数</string>
+
+  <key>remainStars</key>
+  <string>剩下的星星</string>
+  
+  <key>mubiao</key>
+  <string>目标:</string>
+
+  <key>wan</key>
+  <string>万</string>
+
+  <key>niyongyouzuanshi</key>
+  <string>你拥有钻石</string>
+  
+  <key>ke</key>
+  <string>颗</string>
+
+  <key>screenTextPropRandom</key>
+  <string>重新排列</string>
+
+  <key>screenTextPropChangeColor</key>
+  <string>点击要改变颜色的水果</string>
+
+  <key>screenTextPropScoreMul</key>
+  <string>下一次获得分数加倍</string>
+
+  <key>screenTextPropPopOne</key>
+  <string>点击消除一个水果</string>
+  
+</dict>

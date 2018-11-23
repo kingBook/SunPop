@@ -1,0 +1,87 @@
+<dict>
+	<key>newGame</key>
+	<string>new game</string>
+  
+  <key>continueGame</key>
+	<string>continue game</string>
+  
+  <key>shop</key>
+	<string>shop</string>
+
+  <key>niyongyouzuanshi</key>
+  <string>you have</string>
+
+  <key>ke</key>
+  <string>diamonds</string>
+
+  <key>level</key>
+  <string>level</string>
+
+  <key>targetScore</key>
+  <string>target score</string>
+
+  <key>maxRecord</key>
+  <string>max record</string>
+
+  <key>mubiao</key>
+  <string>target</string>
+
+  <key>yinhao</key>
+  <string>:</string>
+  
+  <key>lqdlb</key>
+  <string>receive a spree </string>
+  <key>hddlb</key>
+  <string>activity spree</string>
+  <key>xsdlb</key>
+  <string>novice spree</string>
+  <key>smdj</key>
+  <string>mystery prize</string>
+  <key>gxnhd</key>
+  <string>congratulations </string>
+  
+  <key>goumai</key>
+  <string>buy</string>
+
+  <key>lingqu</key>
+  <string>receive</string>
+
+  <key>wantContinue</key>
+  <string>want continue</string>
+
+  <key>zaijiezaili</key>
+  <string>failure</string>
+  
+  <key>continueBtn</key>
+  <string>continue</string>
+
+  <key>screenTextPropRandom</key>
+  <string>rearrange</string>
+
+  <key>screenTextPropChangeColor</key>
+  <string>click to change the color of the block</string>
+
+  <key>screenTextPropScoreMul</key>
+  <string>the next time the score is doubled</string>
+
+  <key>screenTextPropPopOne</key>
+  <string>click to remove a block </string>
+
+  <key>rewardScore</key>
+  <string>reward score</string>
+
+  <key>remainStars</key>
+  <string>remain stars</string>
+
+  <key>help</key>
+  <string>help</string>
+  
+  <key>pause</key>
+  <string>pause</string>
+  
+  <key>wan</key>
+  <string>T</string>
+  
+  <key>leaderboard</key>
+  <string>leaderboard</string>
+</dict>
